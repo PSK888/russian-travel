@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-[Ссылка на проект](https://PSK888.github.io/russian-travel/)
+[Ссылка на проект](https://PSK888.github.com/russian-travel/)
 
 ### Обзор
 * Интро
