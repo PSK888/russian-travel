@@ -1,0 +1,8 @@
+.intro__text {
+    margin: 40px 0 33px;
+    line-height: 163%;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+  }
