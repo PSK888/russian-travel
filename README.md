@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-[Ссылка на проект](https://github.com/PSK888/russian-travel.git)
+[Ссылка на GitHub Pages](https://psk888.github.io/russian-travel/)
 
 Данный проект рассказывает о путешествии по красивейшим местам России.
 

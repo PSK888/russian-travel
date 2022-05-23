@@ -1,7 +1,7 @@
 .cover {
  
     max-width: 1184px;
-    height: 740px;
+    max-height: 740px;
     margin: 92px auto 92px;
     filter: drop-shadow( 5px 0 5px  #000000); 
   }

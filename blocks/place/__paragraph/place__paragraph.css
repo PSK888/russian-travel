@@ -19,7 +19,6 @@
 @media screen and (max-width: 768px) {
   .place__paragraph {
     max-width: 352px;
-
     line-height: 163%;
     font-size: 16px;
     font-weight: 400;
@@ -29,7 +28,6 @@
 @media screen and (max-width: 320px) {
   .place__paragraph {
     max-width: 320px;
-
     line-height: 163%;
     font-size: 16px;
     font-weight: 400;
