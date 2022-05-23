@@ -1,11 +1,11 @@
 .cover__background{
   width: 100%;
   background-image: url(../../../images/cover-trains.jpg);
-  background-position: center;
+  
   background-size: cover;
   max-width: 1184px;
   min-height: 740px;
-  text-align: center;
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -14,7 +14,7 @@
   opacity: 0.8;
   /*-webkit-text-stroke: 1px #000000;*/
   text-decoration: none;
-  text-transform: none;   
+   
 }
 
 .cover__background:hover{
