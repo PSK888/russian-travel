@@ -22,6 +22,7 @@
   }
   @media screen and (max-width: 600px) {
     .place {
+      
       max-width: 320px;
       row-gap: 32px;
       grid-template-areas: "title" "web" "img" "text";
