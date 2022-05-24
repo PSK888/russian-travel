@@ -1,5 +1,4 @@
 .place__title {
-    font-family: 'Inter';
     max-width: 460px;
     max-height: 152px;
     line-height: 76px;
@@ -18,7 +17,6 @@
       max-width: 340px;
       line-height: 46px;
       font-size: 52px;
-      font-weight: 900;
     }
   }
   @media screen and (max-width: 600px) {
@@ -27,6 +25,5 @@
       max-width: 288px;
       line-height: 35px;
       font-size: 32px;
-      font-weight: 900;
     }
   }
