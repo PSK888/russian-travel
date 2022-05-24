@@ -2,7 +2,6 @@
   max-width: 158px;
   margin-top: 8px;
   align-self: start;
-  max-width: 158px;
   font-size: 10px;
   line-height: 14px;
   font-style: normal;
@@ -12,13 +11,13 @@
 
 @media screen and (max-width: 768px) {
   .lead__caption {
-   margin-left:24px;;
+   margin-left:24px;
   }
 }
 
 
 @media screen and (max-width: 320px) {
   .lead__caption {
-   margin-left:16px;;
+   margin-left:16px;
   }
 }
