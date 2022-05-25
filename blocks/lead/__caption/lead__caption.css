@@ -1,11 +1,13 @@
 .lead__caption {
+  text-transform: uppercase;
   max-width: 158px;
-  margin-top: 8px;
+  height: auto;
   align-self: start;
   font-size: 10px;
   line-height: 14px;
   font-style: normal;
   letter-spacing: 1.5px;
+  margin: 8px 0 0 0;
 }
 
 
